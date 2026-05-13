@@ -1,4 +1,4 @@
-# Hi there, I'm Tehila Hildesheimer 👋
+# Hi there, I'm Tehila Hildeshaimer 👋
 
 **Software Engineer | Full Stack Developer | AI Specialist**
 

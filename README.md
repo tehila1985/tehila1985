@@ -2,7 +2,7 @@
 
 **Software Engineer | Full Stack Developer | AI Specialist**
 
-Analytical and creative Software Engineer with a focus on integrating Full Stack development with AI and LLM Agents.
+Analytical and creative Software Engineer with a focus on integrating Full Stack development with AI and LLM Agents. Expert in building scalable APIs and intelligent, data-driven applications.
 
 ---
 
@@ -28,17 +28,31 @@ Analytical and creative Software Engineer with a focus on integrating Full Stack
 
 ### 🚀 Featured Projects
 
-#### 🏠 Smart Interior Design Platform (AI-Powered)
-A comprehensive Full Stack platform for interior design.
-* **Backend:** Built a REST API infrastructure using ASP.NET Core (.NET 9) with a layered architecture.
-* **AI Integration:** Implemented Generative AI via Groq API and integrated Computer Vision models for room style analysis.
-* **Frontend:** Developed a responsive and interactive UI using Angular.
+#### 🏠 [CozyGen - Smart Interior Design E-Commerce](https://github.com/tehila1985/angularCozyGen)
+An AI-powered platform combining furniture retail with intelligent interior design.
+* **Backend ([API](https://github.com/tehila1985/apiCozyGen)):** RESTful API built with **ASP.NET Core (.NET 9)** using Layered Architecture, Entity Framework Core (DB First), and NLog.
+* **Frontend:** Responsive **Angular 18** interface featuring PrimeNG and RxJS.
+* **AI Integration:** Hebrew-speaking design assistant (Groq API / LLaMA 3.3) and Computer Vision for style detection from user-uploaded room photos.
 
-#### 📄 Project Doc Analyzer Agent
-Knowledge management system using Hybrid RAG and LlamaIndex Workflows for intelligent documentation analysis.
+#### 🧠 [Intelligent Project Agent](https://github.com/tehila1985/intelligent-project-agent)
+An Enterprise-Grade **Hybrid RAG** system designed to be the "Central Brain" for project documentation.
+* **Tech:** LlamaIndex Workflows, Cohere Command-R, and FastAPI.
+* **Features:** Intelligent routing between semantic search and deterministic structured data extraction (Pydantic).
 
-#### 💻 CLI Command Generator
-Converts natural language into Windows CLI commands using Prompt Engineering and GPT-4o-mini.
+#### 🤖 [Downloads Warden - MCP Server](https://github.com/tehila1985/downloads-mcp)
+A specialized Model Context Protocol (MCP) server for automated file management.
+* **Tech:** Python (Async), SHA-256 hashing for deduplication.
+* **Features:** 8 intelligent tools for Claude Desktop including smart sorting, date-based organization, and automatic ZIP extraction.
+
+#### 💻 [CLI Command Generator](https://github.com/tehila1985/-Prompt-Engineering-cli-commands)
+A natural language interface for Windows CLI commands.
+* **Tech:** React, Flask, and OpenAI GPT-4o-mini.
+* **Features:** Advanced **Prompt Engineering** with safety layers to block dangerous commands and smart intent classification.
+
+#### 📄 [Attendance Report Variation System](https://github.com/tehila1985/PDF-Attendance-Variation-Tool)
+A Python-based pipeline for processing and modifying Hebrew attendance PDFs.
+* **Tech:** Tesseract OCR, PyMuPDF, and ReportLab.
+* **Features:** Deterministic seed-based time shifting, OCR for scanned documents, and automatic classification of report types.
 
 ---
 
@@ -49,5 +63,5 @@ Converts natural language into Windows CLI commands using Prompt Engineering and
 ---
 
 ### 📫 Contact Me:
-* **Email:** t0556771985@gmail.com
+* **Email:** [t0556771985@gmail.com](mailto:t0556771985@gmail.com)
 * **Phone:** 055-6771985

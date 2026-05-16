@@ -5,14 +5,12 @@
 Analytical and creative Software Engineer focused on combining Full Stack development with AI, LLM Agents, and intelligent automation systems. Passionate about building scalable APIs, enterprise-grade architectures, and AI-driven applications.
 
 ---
-
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tehila1985&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehila1985&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-tau-orpin.vercel.app/api?username=tehila1985&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-tau-orpin.vercel.app/api/top-langs/?username=tehila1985&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 ---
 
 ### 🛠️ Technical Stack

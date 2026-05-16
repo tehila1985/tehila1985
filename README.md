@@ -6,7 +6,6 @@ Analytical and creative Software Engineer focused on combining Full Stack develo
 
 ---
 ### 📊 My GitHub Stats
-### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tehila1985&theme=radical&column=4" alt="GitHub Trophies" />

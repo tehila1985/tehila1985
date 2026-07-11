@@ -15,7 +15,7 @@ Analytical and creative Software Engineer focused on combining Full Stack develo
   <img src="https://github-readme-stats.vercel.app/api?username=tehila1985&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehila1985&layout=compact&theme=radical" alt="Top Languages" />
 </p>
----
+
 
 ### 🛠️ Technical Stack
 
